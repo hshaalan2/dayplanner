@@ -1,4 +1,5 @@
 //defining variables. I know I used way too many but that is the only way I know to set vars for each row (hour), one var for the li element for each hour, another var for each text input inside that row, as well as other variables for buttons some of which I ended up not using. In due time, I expect to learn how to make my code more concise but for now that is all I know. 
+
 const hourRow = $('.list-group-item-action');
 const currentday = $('#currentDay');
 const eventInput = $('#event-input');
